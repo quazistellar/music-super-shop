@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\obj\Debug\InfoSystem10LabaKapetz.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\obj\Debug\InfoSystem10LabaKapetz.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\bin\Debug\InfoSystem10LabaKapetz.exe.config
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\bin\Debug\InfoSystem10LabaKapetz.exe
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\bin\Debug\InfoSystem10LabaKapetz.pdb
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\obj\Debug\InfoSystem10LabaKapetz.csproj.CopyComplete
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\obj\Debug\InfoSystem10LabaKapetz.exe
+C:\Users\User\source\repos\InfoSystem10LabaKapetz\obj\Debug\InfoSystem10LabaKapetz.pdb
